@@ -1,0 +1,55 @@
+Title
+
+An ocean-wide population assignment to estimate harvest impacts on thick-billed and common murres (Uria lomvia and U. aalge)
+
+Introduction
+
+Conservation of migratory organisms is challenging because populations and their demographic factors often vary across the migratory cycle. Population structure, stressors, sources of mortality, and legislation will likely differ at each migratory stage.
+
+When a stressor or source of mortality is more severe during winter, the effects on breeding individuals are confounded by the organization of wintering populations.
+
+A number of methods have been used to determine connectivity between breeding and wintering populations (method known as population assignment) in many vertebrate taxa which include band-recapture, morphometrics, stable isotopes, light-based geolocation, satellite geolocation, and genetic markers.
+
+Genetic markers are currently the most effective data for population assignment because of their low cost and consistency of collection. Molecular technology is advancing in such a way that genetic markers will continue to increase in accessibility.
+
+The effectiveness of molecular markers depends on several factors. Genetic markers will be more effective at determining an individual’s population of origin if 1) more individuals are sampled from each population, 2) populations are sorted into appropriate reporting groups that reflect the genetic populations of the organism, 3) there is sufficient genetic differentiation among reporting groups, 4) enough variable loci have been sampled from each individual to capture genetic differentiation in the
+
+Genetic markers will be more powerful for population assignment if 1) sufficient genetic differentiation exists among populations, 2) sufficient genetic variation has been sampled across individuals and populations, and 3) enough individuals have been sampled per population, given the degree of genetic differentiation among populations.
+
+Thick-billed and common murres comprise a system that exemplifies the usage of genetic markers for population assignment. They occur in dense, discrete breeding populations but poorly defined, mixed wintering populations. Their global populations are secure, but certain individual breeding populations are declining without known cause. A number of their anthropogenic sources of mortality are more severe during winter 
+
+Question: what are the relative representations of Atlantic murre colonies in the Newfoundland and Greenland murre hunts?
+
+Methods
+
+Data generation
+sample collection
+DNA extraciton
+Library preparation
+RADseq
+Data quality filtering
+SNP calling
+
+Analysis
+Outlier detection
+Assignment panel assembly - Random Forest
+Population assignment
+
+Results
+
+Number of samples past filterin
+SNPs retained
+Outliers detected
+Size of SNP panels
+outliers
+Random Forest
+Population assignment performance
+outlier
+random forest
+Where the murres are coming from
+(in relation to size of colony)
+
+Discussion
+
+Conclusions
+
